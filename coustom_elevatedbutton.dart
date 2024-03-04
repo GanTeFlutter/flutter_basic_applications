@@ -1,4 +1,3 @@
-//Dışarıdan aldığı parametler sayesinde hem email hem de password kısmında kullanılabilir.
 
 import 'package:facebook_app/constant/giris_kismi_sabitler/colors.dart';
 import 'package:flutter/material.dart';
