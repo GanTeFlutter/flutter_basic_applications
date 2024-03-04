@@ -1,3 +1,6 @@
+//
+//Sayfalar arasindaki gecisleri gostermek icin 
+//
 import 'package:flutter/material.dart';
 
 class PageViewLearn extends StatefulWidget {
